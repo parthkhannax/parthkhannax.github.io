@@ -1,0 +1,294 @@
+{
+ "updated_at": "2026-10-12T19:33:52Z",
+ "updated_by": "migration",
+ "rows": [
+  {
+   "symbol": "SPY",
+   "run": "760",
+   "worry": "770",
+   "dir": "Up",
+   "clear": "780",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "QQQ",
+   "run": "730",
+   "worry": "742",
+   "dir": "Chop",
+   "clear": "763",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "GOOG",
+   "run": "315",
+   "worry": "324",
+   "dir": "Up",
+   "clear": "345",
+   "take_profit": "360",
+   "note": ""
+  },
+  {
+   "symbol": "META",
+   "run": "685",
+   "worry": "716",
+   "dir": "Chop",
+   "clear": "780",
+   "take_profit": "795",
+   "note": ""
+  },
+  {
+   "symbol": "AMZN",
+   "run": "238",
+   "worry": "245",
+   "dir": "Up",
+   "clear": "260",
+   "take_profit": "267",
+   "note": ""
+  },
+  {
+   "symbol": "AAPL",
+   "run": "315",
+   "worry": "323",
+   "dir": "Up",
+   "clear": "345",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "AMD",
+   "run": "560",
+   "worry": "584",
+   "dir": "Chop",
+   "clear": "630",
+   "take_profit": "",
+   "note": "640+"
+  },
+  {
+   "symbol": "MSFT",
+   "run": "510",
+   "worry": "520",
+   "dir": "Up",
+   "clear": "535",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "NVDA",
+   "run": "218",
+   "worry": "228",
+   "dir": "Up",
+   "clear": "235",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "AVGO",
+   "run": "345",
+   "worry": "368",
+   "dir": "Up",
+   "clear": "382",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "TSLA",
+   "run": "345",
+   "worry": "360",
+   "dir": "Chop",
+   "clear": "390",
+   "take_profit": "393",
+   "note": ""
+  },
+  {
+   "symbol": "SLV",
+   "run": "50",
+   "worry": "52",
+   "dir": "Down",
+   "clear": "56",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "MU",
+   "run": "940",
+   "worry": "1015",
+   "dir": "Up",
+   "clear": "1100",
+   "take_profit": "1260",
+   "note": ""
+  },
+  {
+   "symbol": "IBIT",
+   "run": "42",
+   "worry": "46",
+   "dir": "Down",
+   "clear": "50",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "HOOD",
+   "run": "101",
+   "worry": "107",
+   "dir": "Up",
+   "clear": "125",
+   "take_profit": "138",
+   "note": ""
+  },
+  {
+   "symbol": "ALAB",
+   "run": "308",
+   "worry": "326",
+   "dir": "Up",
+   "clear": "385",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "ASTS",
+   "run": "48",
+   "worry": "55",
+   "dir": "Down",
+   "clear": "67",
+   "take_profit": "75",
+   "note": ""
+  },
+  {
+   "symbol": "CDNS",
+   "run": "340",
+   "worry": "350",
+   "dir": "Flat",
+   "clear": "360",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "IOT",
+   "run": "36",
+   "worry": "38",
+   "dir": "Chop",
+   "clear": "44.21",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "MSTR",
+   "run": "136",
+   "worry": "148",
+   "dir": "Up",
+   "clear": "170",
+   "take_profit": "",
+   "note": "Worry = 200 SMA"
+  },
+  {
+   "symbol": "WULF",
+   "run": "12",
+   "worry": "13.28",
+   "dir": "Down",
+   "clear": "16.26",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "IREN",
+   "run": "32",
+   "worry": "35",
+   "dir": "Down",
+   "clear": "42",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "OKLO",
+   "run": "28.5",
+   "worry": "34.23",
+   "dir": "Down",
+   "clear": "40",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "SPCX",
+   "run": "140",
+   "worry": "150",
+   "dir": "Chop",
+   "clear": "175",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "SKHY",
+   "run": "150",
+   "worry": "165",
+   "dir": "Up",
+   "clear": "180",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "CRWV",
+   "run": "78",
+   "worry": "83",
+   "dir": "Up",
+   "clear": "93",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "HIMS",
+   "run": "26.5",
+   "worry": "27.41",
+   "dir": "Down",
+   "clear": "30",
+   "take_profit": "",
+   "note": "Worry = 200 SMA"
+  },
+  {
+   "symbol": "RIVN",
+   "run": "12.5",
+   "worry": "14",
+   "dir": "Down",
+   "clear": "15",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "SOFI",
+   "run": "14",
+   "worry": "15",
+   "dir": "Down",
+   "clear": "16.53",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "QBTS",
+   "run": "12.70",
+   "worry": "13.9",
+   "dir": "Down",
+   "clear": "16",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "COHR",
+   "run": "288",
+   "worry": "300",
+   "dir": "Up",
+   "clear": "342",
+   "take_profit": "",
+   "note": ""
+  },
+  {
+   "symbol": "SMH",
+   "run": "578",
+   "worry": "600",
+   "dir": "Down",
+   "clear": "640",
+   "take_profit": "",
+   "note": ""
+  }
+ ]
+}
